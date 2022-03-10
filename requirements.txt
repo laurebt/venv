@@ -1,3 +1,4 @@
 # empty
 
-import bitfinex
+bitfinex
+rstatmon
