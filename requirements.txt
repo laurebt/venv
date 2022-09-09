@@ -1,3 +1,2 @@
 # empty
-streamlit
-bitfinex
+pandas
